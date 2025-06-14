@@ -505,7 +505,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "60_tonton_board.step",
       "svg": "",
       "vrml": ""
     },
